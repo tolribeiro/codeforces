@@ -21,7 +21,7 @@ short CountBits(unsigned int x) {
 
 int main(int argc, const char * argv[]) {
     
-    CountBits(10);
+    cout << CountBits(10);
     
     return 0;
 }
